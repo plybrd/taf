@@ -12,7 +12,7 @@ a WebDAV client in JavaScript featuring mithril.js. Just [try it](https://raw.gi
 - Copy folder/file TODO
 
 ## Mithril
-It uses version 2.2 of [mithril.js](https://mithril.js.org/). **But** Line  1503 must be chnged to enable sending a file with methode PUT. Just `|| body instanceof $window.Blob` was added.
+It uses version 2.2 of [mithril.js](https://mithril.js.org/). **But** Line  1503 must be changed to enable sending a file with methode PUT. Just `|| body instanceof $window.Blob` was added.
 
 ## Setup of a WebDAV server with ningx
 
