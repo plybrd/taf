@@ -1,5 +1,5 @@
 # TAF
-a WebDAV client in JavaScript featuring mithril.js. Just [try it](https://raw.githack.com/plybrd/taf/main/Src/index.html).
+a WebDAV client as a Single Page Application written in JavaScript featuring [mithril.js](https://mithril.js.org/). Just [try it](https://raw.githack.com/plybrd/taf/main/Src/index.html).
 
 ## Roadmap
 - Show directory listing (expects XML server response) DONE
