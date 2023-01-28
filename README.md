@@ -7,6 +7,7 @@ a WebDAV client as a Single Page Application written in JavaScript featuring [mi
 - Refresh directory listing DONE
 - Upload file DONE
 - Make folder DONE
+- Delete file/folder DONE
 - Rename folder/file TODO
 - Move folder/file TODO
 - Copy folder/file TODO
